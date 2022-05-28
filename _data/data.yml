@@ -59,7 +59,9 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Passionate about technology, I am learning everything possible to develop myself professionally and personally.
+    Looking for opportunities to challenge me in order to improve myself.
+    Learning Ruby on rails, one of the most popular web frameworks.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -67,58 +69,23 @@ educationcomplete:
     university: Facultad de Ingenieria Mecanica y Electrica, UANL
     time: 2019 Jan - current
     details: |
+      I am currently in my 6th semester of my ITS career, learning day by day to develop professionally, looking for work experience or internships.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: BrightCoders - Ruby On Rails
+    time: 2022 May - Present
+    company: Brightcoders
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Constantly learning concepts used in real life and actively practicing how to work collaboratively in programming projects.
 # Registra aquí los proyectos en los que has participado
 projects:
   title: Projects
 
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Magno Point of Sale
+      link: "www.youtube.com/watch?v=lCDNRmFQG1k"
+      tagline: "A school project developed as a team with the Java programming language, using Object Oriented Programming concepts and databases."
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -131,22 +98,28 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
       level: 60%
 
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 60%
 
-    - name: C/C++
+    - name: Javascript
       level: 40%
+
+    - name: Java
+      level: 40%
+
+    - name: C++
+      level: 20%
+
+    - name: Ruby
+      level: 20%
+
+    - name: Ruby on rails
+      level: 20%
 
 # NO MODIFICAR
 footer: >
